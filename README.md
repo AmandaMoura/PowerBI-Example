@@ -10,10 +10,5 @@ Colabore em relatórios interativos e dashboards personalizados e compartilhe-os
 Dimensione em sua organização com governança e segurança internas.
 ----
 
-#Instalando o Power BI:
-![installing](https://github.com/AmandaMoura/PowerBI-Example/blob/master/Imagens/Tutorial.png?raw=true)
-
-----
-
 #Installing the Power BI
 ![img](https://github.com/AmandaMoura/PowerBI-Example/blob/master/Imagens/Tutorial.png)
