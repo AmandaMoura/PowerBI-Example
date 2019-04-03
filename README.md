@@ -1,4 +1,4 @@
-# Eu Apresento a você o Power BI - The ferramenta Inteligente da Microssoft 
+# Eu Apresento a você o Power BI - A ferramenta Inteligente da Microssoft 
 
 --------
 O que é o Power BI?
