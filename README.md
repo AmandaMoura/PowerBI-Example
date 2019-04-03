@@ -13,4 +13,4 @@ Size in your organization with governance and internal security.
 ----
 
 #Installing the Power BI
-!(img)[https://github.com/AmandaMoura/PowerBI-Example/blob/master/Imagens/Tutorial.png]
+![img](https://github.com/AmandaMoura/PowerBI-Example/blob/master/Imagens/Tutorial.png)
