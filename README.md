@@ -1,15 +1,18 @@
-# I introduce to you Power BI - The intelligent tool of Microssoft 
+# Eu Apresento a você o Power BI - The ferramenta Inteligente da Microssoft 
 
 --------
+O que é o Power BI?
+O Power BI é um serviço de análise de negócios que fornece intuições para permitir decisões rápidas e informadas.
 
-#What is Power BI?# 
+Transforme dados em visuais impressionantes e compartilhe-os com seus colegas em qualquer dispositivo.
+Explore e analise visualmente dados – locais ou na nuvem – em uma única exibição.
+Colabore em relatórios interativos e dashboards personalizados e compartilhe-os.
+Dimensione em sua organização com governança e segurança internas.
+----
 
-Power BI is a business analytics service that provides insights for fast, informed decision making.
+#Instalando o Power BI:
+![installing](https://github.com/AmandaMoura/PowerBI-Example/blob/master/Imagens/Tutorial.png?raw=true)
 
-Turn data into stunning visuals and share your colleagues on any device.
-Explore and analyze visual data - maps or the cloud - in a single view.
-Collaborate on interactive reports and custom dashboards and share them.
-Size in your organization with governance and internal security.
 ----
 
 #Installing the Power BI
